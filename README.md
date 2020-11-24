@@ -1,6 +1,6 @@
 # vue_pjt
 
-> A Vue.js project
+- for practice ver.
 
 ## Build Setup
 
